@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ITaskRepository\\Project\\25-Aug-2024\\hrms.api\\HRMS.API\\wwwroot\\Resources\\product-list.rdlc",
+      "PackagePath": "staticwebassets\\Resources\\product-list.rdlc"
+    },
+    {
+      "Id": "F:\\ITaskRepository\\Project\\25-Aug-2024\\hrms.api\\HRMS.API\\wwwroot\\Upload\\product\\102\\102.png",
+      "PackagePath": "staticwebassets\\Upload\\product\\102\\102.png"
+    },
+    {
+      "Id": "F:\\ITaskRepository\\Project\\25-Aug-2024\\hrms.api\\HRMS.API\\wwwroot\\Uploads\\Common\\noimage.png",
+      "PackagePath": "staticwebassets\\Uploads\\Common\\noimage.png"
+    },
+    {
+      "Id": "F:\\ITaskRepository\\Project\\25-Aug-2024\\hrms.api\\HRMS.API\\wwwroot\\Uploads\\Users\\178\\178.png",
+      "PackagePath": "staticwebassets\\Uploads\\Users\\178\\178.png"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.HRMS.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.HRMS.API.props",
+      "PackagePath": "build\\HRMS.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HRMS.API.props",
+      "PackagePath": "buildMultiTargeting\\HRMS.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.HRMS.API.props",
+      "PackagePath": "buildTransitive\\HRMS.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
